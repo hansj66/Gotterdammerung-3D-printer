@@ -1,4 +1,4 @@
-﻿Götterdämmerung-3D-printer
+﻿Götterdämmerung 3D printer
 ==========================
 
 This 3D printer project is in development. The printer is functional, but the design and bill of materials are still subject 
